@@ -34,10 +34,7 @@ Currently, I'm pursuing a Python Data Science internship at Luminar Technolab, C
 - Generative AI
 - Data Visualization
 
-### 📫 Connect With Me
 
-- LinkedIn: [Add your LinkedIn URL](#)
-- GitHub: [brijith-kp](https://github.com/brijith-kp)
 
 ---
 
